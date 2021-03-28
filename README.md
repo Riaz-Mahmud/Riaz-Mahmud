@@ -2,14 +2,7 @@
 
 [![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)](http://almahmudriaz.com/)
 
-<a href="https://www.linkedin.com/in/al-mahmud-riaz/">
-  <img align="left" alt="Saharukh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
 <br/>
-<br/>
-
 
 - 🏫 Studying CSE in  [American International University-Bangladesh (AIUB)](https://aiub.edu)
 - 🌱 I’m currently learning Android Studio & Flutter.
