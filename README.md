@@ -29,6 +29,10 @@
 
 [![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)](http://almahmudriaz.com/)
 
+[![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Riaz-Mahmud&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](http://almahmudriaz.com/)
+
+[![FreakyCoder Github Stats](https://github-readme-stats.vercel.app/api?username=Riaz-Mahmud&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)](http://almahmudriaz.com/)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Riaz-Mahmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <br/>
