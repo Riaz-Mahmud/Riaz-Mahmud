@@ -2,7 +2,6 @@
 
 [![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)](http://almahmudriaz.com/)
 
-<br/>
 
 - 🏫 Studying CSE in  [American International University-Bangladesh (AIUB)](https://aiub.edu)
 - 🌱 I’m currently learning Android Studio & Flutter.
