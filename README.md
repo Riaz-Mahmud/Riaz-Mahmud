@@ -1,13 +1,9 @@
 ### Hello World, I'm RIAZ, Al Mahmud! 
 
+[![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)](http://almahmudriaz.com/)
+
 <a href="https://www.linkedin.com/in/al-mahmud-riaz/">
   <img align="left" alt="Saharukh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Riaz-Mahmud">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/riaz922/">
-  <img align="left" alt="Saharukh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 
@@ -27,7 +23,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-[![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)](http://almahmudriaz.com/)
 
 [![Riaz-Mahmud Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Riaz-Mahmud&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](http://almahmudriaz.com/)
 
