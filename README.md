@@ -1,6 +1,6 @@
 ### Hello World, I'm RIAZ, Al Mahmud! 
 
-[Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)
+![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)
 
 - 🏫 Studying CSE in  [American International University-Bangladesh (AIUB)](https://aiub.edu)
 - 🌱 I’m currently learning Flutter & Laravel.
