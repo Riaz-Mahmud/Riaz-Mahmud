@@ -2,6 +2,8 @@
 
 ![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)
 
+![Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud)
+
 - 🏫 Studying CSE in  [American International University-Bangladesh (AIUB)](https://aiub.edu)
 - 🌱 I’m currently learning Flutter & Laravel.
 - 💬 Ask me about Android Studio.
