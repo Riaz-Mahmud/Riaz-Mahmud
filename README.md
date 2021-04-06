@@ -1,4 +1,4 @@
-### Hello World, I'm RIAZ, Al Mahmud! 
+### Hello World, I'm RIAZ! 
 
 ![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)
 
