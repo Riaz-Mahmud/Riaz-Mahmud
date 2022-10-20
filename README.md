@@ -1,6 +1,5 @@
 ### Hello World, I'm RIAZ! 
 
-![Riaz-Mahmud Github Visitors](https://badges.pufler.dev/visits/Riaz-Mahmud/Riaz-Mahmud?style=for-the-badge&color=eb1b0c)
 
 [![Riaz-Mahmud Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Riaz-Mahmud&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](http://almahmudriaz.com/) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riaz-Mahmud&layout=compact)](https://github.com/Riaz-Mahmud)
